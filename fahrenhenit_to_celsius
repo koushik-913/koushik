@@ -10,7 +10,7 @@ public class Volume2 {
 		 Scanner sc=new Scanner(System.in);
 		 c=sc.nextFloat();
 f=c*9/5+32;
-System.out.println("volume of sphere is:" +f);
+System.out.println("converted to celsius:" +f);
 	 
 	}
 
